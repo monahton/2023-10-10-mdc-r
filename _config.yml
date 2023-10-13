@@ -111,7 +111,7 @@ cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
 pre_survey: "https://docs.google.com/forms/d/e/1FAIpQLSctoUqDYhR7TmyzC1rbfD_EdUxmKoUTjyevJ34zFP7a15BOfQ/viewform?usp=sf_link"
-post_survey: "https://docs.google.com/forms/d/e/1FAIpQLSeHJ7kcTKnMjDZMzNF4efakglXr1kZHgrt5gDTSQmMruOWVGQ/viewform?usp=sf_link"
+post_survey: "https://survey.mdc-berlin.de/875143?lang=en"
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
